@@ -4,6 +4,9 @@ This project is about analyzing bike sales data and determining trends and insig
 ## Introduction
 The dataset for this project was sourced from Kaggle, containing details of bike purchases segmented by customer demographics. Our primary task was to analyze and visualize the number of bikes purchased by different groups to identify meaningful trends. By analyzing variables like customer income, gender, distance covered, homeownership status, location, and age bracket, we aim to answer key questions about customer behavior and factors influencing bike sales.
 
+## The Used dataset
+<a href="https://github.com/Habirah-Mahmood/Bike-Sales-Data-Analysis/blob/main/Excel%20Project%20Dataset.xlsx">
+
 ## Key Questions
 Our analysis focuses on the following questions:
 
