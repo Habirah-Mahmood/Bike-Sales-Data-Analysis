@@ -37,7 +37,14 @@ Using Excel's powerful data analysis and visualization tools, we created a dashb
 <a href="https://github.com/Habirah-Mahmood/Bike-Sales-Data-Analysis/blob/main/Dashboard%20image.jpg">Created dashboard</a>
 
 ## Results
-Our dashboard provides a comprehensive view of the bike sales trends across various demographics. By examining the relationships between these factors, we can identify potential target segments for marketing efforts and uncover customer preferences that could drive future business strategies.
+Our dashboard provides a comprehensive view of the bike sales trends across various demographics. By examining the relationships between these factors, we can identify potential target segments for marketing efforts and uncover customer preferences that could drive future business strategies. The summary of the results is as follows:
+- Males receive relatively higher income that the females, and that is why they purchased more bikes.
+- The longer the distance covered, the less bikes are bought.
+- The highest sales were from North America, followed by Europe , and lastly the Pacific.
+- Home owners bought more bikes than non-home owners.
+- Middle-aged individuals (31-54) bought more bikes than the adolescents and old.
+
+## 
 
 ## Conclusion
 Through a combination of data cleaning, transformation, and dashboard creation, we've transformed a raw dataset into actionable insights that highlight patterns in bike purchases based on key demographic and behavioral factors.
