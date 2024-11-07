@@ -34,7 +34,7 @@ Using Excel's powerful data analysis and visualization tools, we created a dashb
 - Location & Age Bracket: Charts displaying bike purchases segmented by location and age group.
 
 ## The Created Dashboard
-
+<a href="https://github.com/Habirah-Mahmood/Bike-Sales-Data-Analysis/blob/main/Dashboard%20image.jpg">Created dashboard</a>
 
 ## Results
 Our dashboard provides a comprehensive view of the bike sales trends across various demographics. By examining the relationships between these factors, we can identify potential target segments for marketing efforts and uncover customer preferences that could drive future business strategies.
